@@ -1,8 +1,8 @@
 from pytube import YouTube, Playlist
 
 
-VIDEO_URL = 'https://www.youtube.com/watch?v=8EJ3zbKTWQ8&list=PLyORnIW1xT6waC0PNjAMj33FdK2ngL_ik'
-PLAYLIST_URL = 'https://www.youtube.com/playlist?list=PLyORnIW1xT6waC0PNjAMj33FdK2ngL_ik'
+VIDEO_URL = 'https://www.youtube.com/watch?v=iNSAyruVAV4'
+# PLAYLIST_URL = 'https://www.youtube.com/playlist?list=PLyORnIW1xT6waC0PNjAMj33FdK2ngL_ik'
 
 
 def download_video(video_url):
